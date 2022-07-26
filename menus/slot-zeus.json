@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-zeus",
+        "command": "slot-zeus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-zeus",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-zeus:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

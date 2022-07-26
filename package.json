@@ -1,0 +1,18 @@
+{
+  "name": "slot-zeus",
+  "main": "./lib/slot-zeus",
+  "version": "1.0.0",
+  "description": "Trik Main Cara Download Slot Zeus Yang Lagi Gacor Sekarang",
+  "keywords": ["agen toto play","agen slot terbaik","slot online","slot joker gaming","situs judi slot online","habanero slot"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-zeus:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya93/slot-zeus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
